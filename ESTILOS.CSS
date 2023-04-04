@@ -7,3 +7,15 @@ body {
 .Foto {
     margin-left: 500px;
 }
+.introduccion {
+    max-width: 400px;
+    margin-top: -300px;
+    margin-left: 20px;
+}
+.datosraros {
+    margin-top: -150px;
+    margin-left: 900px;
+}
+.popper{
+    margin-left: 820px;
+}
